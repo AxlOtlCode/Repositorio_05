@@ -1,0 +1,24 @@
+body{
+    background-image: url(../IMAGES/269.jpg);
+    background-position: 50%;
+    background-size: 30%;
+    color: rgb(235, 222, 162);
+    background-color: rgb(16, 24, 31);
+}
+h1{
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 300%;
+}
+h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+table{
+    font-family: 'Raleway', sans-serif;
+    margin: auto;
+    background-color: rgb(30, 16, 24);
+}
+img{
+    width:600px;
+}
